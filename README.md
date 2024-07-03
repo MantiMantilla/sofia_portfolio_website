@@ -23,5 +23,5 @@ yarn install
 Start the server
 
 ```
-yarn start</pre>
+yarn start
 ```
