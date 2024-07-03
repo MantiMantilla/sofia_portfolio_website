@@ -2,7 +2,7 @@
 
 A simple portfolio template for Sofia Rodríguez.
 
-Original template 
+[Original template](https://github.com/ubaimutl/react-portfolio)
 
 [Live Preview](https://mantimantilla.github.io/sofia_portfolio_website/)
 
