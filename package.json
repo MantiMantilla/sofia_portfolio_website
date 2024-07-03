@@ -2,7 +2,7 @@
     "name": "sofia-portfolio",
     "version": "0.1.0",
     "private": true,
-    "homepage": "/sofia_portfolio_website"
+    "homepage": "/sofia_portfolio_website",
     "dependencies": {
         "bootstrap": "^5.3.3",
         "emailjs-com": "^3.2.0",
